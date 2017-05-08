@@ -1,0 +1,9 @@
+Static Errors for code quality
+Coupling for code quality
+Runtime Length for common tasks comparison
+Documentation per code comparison
+Bug resolving rate 
+
+
+
+Get a couple open source programs in same language and compare based on review
