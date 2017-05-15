@@ -1,0 +1,26 @@
+Monday	  -> May 15th	-> 2 article summaries (add metrics) 	-> |X|
+Wednesday -> May 17th	-> 2 article summaries (add metrics)	-> | |
+Friday	  -> May 19th	-> 2 article summaries (add metrics)	-> | |
+Monday	  -> May 22nd	-> 2 article summaries (add metrics)	-> | |
+Wednesday -> May 24th	-> 2 article summaries (add metrics)	-> | |
+Friday	  -> May 26th	-> 2 article summaries (add metrics)	-> | |
+Monday	  -> May 29th	-> pick and review metrics
+Wednesday -> May 31st	-> pick and review metrics
+Friday	  -> June 2nd	-> pick and review metrics
+Monday	  -> June 5th	-> make literature review
+Wednesday -> June 7th	-> make literature review
+Friday	  -> June 9th	-> make literature review
+Monday	  -> June 12th	-> pick open source software metrics
+Wednesday -> June 14th	-> pick open source software metrics
+Friday	  -> June 16th	-> pick open source software metrics
+Monday	  -> June 19th	-> test metrics
+Wednesday -> June 21st	-> test metrics
+Friday	  -> June 23rd	-> test metrics
+Monday	  -> June 26th	-> ...room for additional 
+Wednesday -> June 28th	-> ...room for additional
+Friday	  -> June 30th	-> ...room for additional
+
+Note: consider both quantitative and qualitative metrics 
+Process: read aritcle, record reference, summarize if relevant 
+
+
