@@ -1,0 +1,45 @@
+Community is an indirect metric that correlates to success
+- mention that research suggests including one example of each type...
+
+Mention that I have an idea for open source projects, but haven't completed them yet as I 
+wanted confirmation that what I've done so far is acceptable.
+
+Note: Mention that you want to test the project on four open source projects of relatively 
+similar sizes, and that utlize the same code paradigm. You have realized that multiple testing
+tools can't be used as they have variation on results, however we'll run the tests a few times
+to ensure validation. Also, we should use two OSS projects with lower reviews, and two with higher
+reviews as this generally correponds to quality based on suggested research.
+
+May want some type of test to check for errors
+
+First part of the test was to ensure the products work as intended and utilize the same computer
+system to ensure results are within scientific markers
+
+Modeling vs categorization
+
+mention that you seperate articles by category and extrated the info by highlighting and making notes
+
+mention use of metrics at different stages, by different people (QA metrics article)
+
+no metrics appear to have a standardized number
+
+OSS doesn't reduce quality or create more bugs, therefore can use standard metrics in some cases
+
+Metrics: list from article (recommendations), comments, Maintainability Index, Errors (also use categorization
+mentioned in the models), documentation
+
+**When you email Simon explain that some are not in the summaries as they are either supplementary or
+were discovered during the creation of the literature review
+
+**We take the point that many metrics either measure the same thing or aren't a true measure of quality
+(you only need a few to get a generalized perspective)
+- purpose is that we're concentrating on the big picture
+
+**get quality definition from ISO website
+**get OSS definition from somewhere else
+
+**check numbers for metrics (what is a standard and perhaps weighted average like in SQO-OSS)
+
+***eliminated some articles as they weren't relevant as I once thought or had too much repetition
+
+***consider the concept of doing more with less
