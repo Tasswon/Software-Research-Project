@@ -43,3 +43,15 @@ were discovered during the creation of the literature review
 ***eliminated some articles as they weren't relevant as I once thought or had too much repetition
 
 ***consider the concept of doing more with less
+
+
+New Article 
+- http://www.arisa.se/compendium/node6.html
+- https://www3.nd.edu/~oss/Papers/amcis_oss.pdf
+- http://www.ppi-int.com/systems-engineering/free%20resources/Software%20Quality%20Metrics%20Capers%20Jones%20120607.pdf
+- http://www.sqa.net/iso9126.html
+- https://opensource.com/about
+
+IEEE
+- https://www.ieee.org/documents/ieeecitationref.pdf
+- http://libguides.murdoch.edu.au/IEEE/text
